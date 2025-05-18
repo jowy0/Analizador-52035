@@ -1,0 +1,4 @@
+x = 10;
+y = 20;
+console.log("Resultado:");
+console.log(x + y);
